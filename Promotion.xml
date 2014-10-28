@@ -1,7 +1,7 @@
-<Apps>
+﻿<Apps>
  <App>
-  <AppName>���ݹ�����Ϣ</AppName>
-  <AppInfo>��Ӧ�ÿ��Բ�ѯ���ݹ���ʵʱ��վ�������վ;����·��վ����Լ�����·�ߣ����߱��Զ�ˢ�����ݡ���վ������ʾ����վ����ʾ�ȹ��ܡ���һ�����ȳ��������ѵĳ��кù��ߡ���Ҳ����ٰ�ʱ���˷��ڵȳ����ˡ�</AppInfo>
+  <AppName>广州公交信息</AppName>
+  <AppInfo>本应用可以查询广州公交实时到站情况、车站途径线路到站情况以及换乘路线，并具备自动刷新数据、到站语音提示、到站震动提示等功能。是一款解决等车、坐车难的出行好工具。大家不用再把时间浪费在等车上了。</AppInfo>
   <AppImageUrl>https://raw.githubusercontent.com/AdamZhouLive/WindowsPhoneApps/master/Icon/GZBUS.png</AppImageUrl>
   <AppID>7463d196-92c6-4457-85bb-0f43043b814f</AppID>
  </App>
