@@ -5,4 +5,11 @@
   <AppImageUrl>https://raw.githubusercontent.com/AdamZhouLive/WindowsPhoneApps/master/Icon/GZBUS.png</AppImageUrl>
   <AppID>7463d196-92c6-4457-85bb-0f43043b814f</AppID>
  </App>
+
+ <App>
+  <AppName>价格帮</AppName>
+  <AppInfo>《价格帮》帮你查价格。本应用是一款电商商品查价比价的工具，能实现历史价格对比，各大电商现价对比并能导航跳转到电商购买页面进行购买。方便大家选购自己喜欢的东西，时时刻刻掌握你所关注商品的价格动向。</AppInfo>
+  <AppImageUrl>https://raw.githubusercontent.com/AdamZhouLive/WindowsPhoneApps/master/Icon/PricesHelper.png</AppImageUrl>
+  <AppID>fa87e1ac-903c-4a61-8b93-7fa554bbb526</AppID>
+ </App>
 </Apps>
