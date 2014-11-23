@@ -12,4 +12,11 @@
   <AppImageUrl>https://raw.githubusercontent.com/AdamZhouLive/WindowsPhoneApps/master/Icon/PricesHelper.png</AppImageUrl>
   <AppID>fa87e1ac-903c-4a61-8b93-7fa554bbb526</AppID>
  </App>
+
+ <App>
+  <AppName>优惠资讯 Hub</AppName>
+  <AppInfo>《优惠资讯 Hub》汇集了各大优惠、折扣资讯门户的各类信息，方便用户在同一APP上进行浏览。能方便用户查看各类优惠。优惠资讯迅速掌握，妈妈在也不怕我买东西不划算了！！</AppInfo>
+  <AppImageUrl>https://raw.githubusercontent.com/AdamZhouLive/WindowsPhoneApps/master/Icon/DiscountHub.png</AppImageUrl>
+  <AppID>baa945b1-4726-43fd-b943-ecc105f4292e</AppID>
+ </App>
 </Apps>
