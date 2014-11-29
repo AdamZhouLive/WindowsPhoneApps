@@ -1,12 +1,5 @@
 ﻿<Apps>
  <App>
-  <AppName>广州公交信息</AppName>
-  <AppInfo>本应用可以查询广州公交实时到站情况、车站途径线路到站情况以及换乘路线，并具备自动刷新数据、到站语音提示、到站震动提示等功能。是一款解决等车、坐车难的出行好工具。大家不用再把时间浪费在等车上了。</AppInfo>
-  <AppImageUrl>https://raw.githubusercontent.com/AdamZhouLive/WindowsPhoneApps/master/Icon/GZBUS.png</AppImageUrl>
-  <AppID>7463d196-92c6-4457-85bb-0f43043b814f</AppID>
- </App>
-
- <App>
   <AppName>价格帮</AppName>
   <AppInfo>《价格帮》帮你查价格。本应用是一款电商商品查价比价的工具，能实现历史价格对比，各大电商现价对比并能导航跳转到电商购买页面进行购买。方便大家选购自己喜欢的东西，时时刻刻掌握你所关注商品的价格动向。</AppInfo>
   <AppImageUrl>https://raw.githubusercontent.com/AdamZhouLive/WindowsPhoneApps/master/Icon/PricesHelper.png</AppImageUrl>
@@ -18,5 +11,19 @@
   <AppInfo>《优惠资讯 Hub》汇集了各大优惠、折扣资讯门户的各类信息，方便用户在同一APP上进行浏览。能方便用户查看各类优惠。优惠资讯迅速掌握，妈妈在也不怕我买东西不划算了！！</AppInfo>
   <AppImageUrl>https://raw.githubusercontent.com/AdamZhouLive/WindowsPhoneApps/master/Icon/DiscountHub.png</AppImageUrl>
   <AppID>baa945b1-4726-43fd-b943-ecc105f4292e</AppID>
+ </App>
+
+ <App>
+  <AppName>Query +</AppName>
+  <AppInfo>《Query +》是一款查询功能，提供各类信息供用户进行查询，如：快递状态、各地天气、彩票开奖结果、股票信息、货币汇率、手机归属地、身份证、IP地址信息、各地PM2.5数据 等。以后将继续扩展其他查询功能，用户有任何需要查询的数据可以和我们开发者联系提供建议。</AppInfo>
+  <AppImageUrl>https://raw.githubusercontent.com/AdamZhouLive/WindowsPhoneApps/master/Icon/QueryPlus.png</AppImageUrl>
+  <AppID>2e1cc659-2894-48d1-a9d6-71ca7a6d82f8</AppID>
+ </App>
+
+ <App>
+  <AppName>广州公交信息</AppName>
+  <AppInfo>本应用可以查询广州公交实时到站情况、车站途径线路到站情况以及换乘路线，并具备自动刷新数据、到站语音提示、到站震动提示等功能。是一款解决等车、坐车难的出行好工具。大家不用再把时间浪费在等车上了。</AppInfo>
+  <AppImageUrl>https://raw.githubusercontent.com/AdamZhouLive/WindowsPhoneApps/master/Icon/GZBUS.png</AppImageUrl>
+  <AppID>7463d196-92c6-4457-85bb-0f43043b814f</AppID>
  </App>
 </Apps>
