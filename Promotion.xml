@@ -21,6 +21,13 @@
  </App>
 
  <App>
+  <AppName>Control +</AppName>
+  <AppInfo>《Control +》是一款“手机控制面板”，整合了10多个一键跳转手机设置（WIFI、手机网络、飞行模式、定位、屏幕旋转等）和10多个一键启动手机功能（闪光灯、锁屏、摄像、电话、短信、邮件等），尽可能方便用户使用，图标一目了然，方便上手。妈妈再也不怕我找不到设置和应用功能在哪里了！！</AppInfo>
+  <AppImageUrl>https://raw.githubusercontent.com/AdamZhouLive/WindowsPhoneApps/master/Icon/ControlPlus.png</AppImageUrl>
+  <AppID>513c93d4-6edd-409f-98ee-2c7d93f0a05d</AppID>
+ </App>
+
+ <App>
   <AppName>广州公交信息</AppName>
   <AppInfo>本应用可以查询广州公交实时到站情况、车站途径线路到站情况以及换乘路线，并具备自动刷新数据、到站语音提示、到站震动提示等功能。是一款解决等车、坐车难的出行好工具。大家不用再把时间浪费在等车上了。</AppInfo>
   <AppImageUrl>https://raw.githubusercontent.com/AdamZhouLive/WindowsPhoneApps/master/Icon/GZBUS.png</AppImageUrl>
